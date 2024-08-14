@@ -10,11 +10,5 @@
 	</properties>
 
 
-  <dependencies>
-  	<dependency>
-  		<groupId>February2024JavaBasicSalman</groupId>
-  		<artifactId>February2024JavaBasicSalman</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  </dependencies>
+
 </project>
